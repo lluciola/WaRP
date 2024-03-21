@@ -4,6 +4,8 @@ train:
   /WaRP/Warp-D/train/images
 val: 
   /WaRP/Warp-D/test/images
+test:
+  /WaRP/Warp-D/test/images
 
 # Classes
 nc: 28  # number of classes
