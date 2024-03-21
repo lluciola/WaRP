@@ -1,11 +1,11 @@
 # Example usage: python train.py --data config28.yaml
 
 train: 
-  /content/WaRP/Warp-D/train/images
+  /WaRP/Warp-D/train/images
 val: 
-  /content/WaRP/Warp-D/test/images
+  /WaRP/Warp-D/test/images
 test:
-  /content/WaRP/Warp-D/test/images
+  /WaRP/Warp-D/test/images
 
 # Classes
 nc: 28  # number of classes
