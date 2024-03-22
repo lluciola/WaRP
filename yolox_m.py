@@ -11,7 +11,8 @@ class Exp(MyExp):
         self.exp_name = os.path.split(os.path.realpath(__file__))[1].split(".")[0]
 
         # Define yourself dataset path
-        self.data_dir = "datasets/warp-d_config.yaml
+        self.data_dir = 'datasets/warp-d_config.yaml'
+        
 
         self.num_classes = 28
 
